@@ -1,4 +1,4 @@
-# Hey there, welcome to the lab! 🧪
+# Welcome to the lab! 🧪
 
 Status: I think my coding energy is on a good cadence lately and I'm on a tough fight against bugs. 
 

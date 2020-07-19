@@ -4,7 +4,7 @@ Status: I think my coding energy is on a good cadence lately and I'm on a tough 
 
 Working with React and TypeScript. ⚛️
 
-📫 Check out my [website](rhaicode.netlify.com)
+📫 Check out my [website](rhaicode.netlify.com).
 
 <!--
 **rhaicode/rhaicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

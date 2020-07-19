@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hey there, welcome to the lab! 🧪
+
+Status: I think my coding energy is on a good cadence lately and I'm on a tough fight against bugs. 
+
+Working with React and TypeScript. ⚛️
+
+📫 [rhaicode](rhaicode.netlify.com)
 
 <!--
 **rhaicode/rhaicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

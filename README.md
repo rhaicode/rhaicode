@@ -1,6 +1,7 @@
 # Welcome to the lab! 🧪
 
-Status: I think my coding energy is on a good cadence lately and I'm on a tough fight against bugs. 
+Status: 
+Full plate of projects!! I hope that my coding energy is still on a good cadence. I'm also on a tough fight against bugs. 
 
 Working with React and TypeScript. ⚛️
 

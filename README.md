@@ -5,7 +5,7 @@ Full plate of projects!! I hope that my coding energy is still on a good cadence
 
 Working with React and TypeScript. ⚛️
 
-📫 Check out my [website](https://rhaicode.netlify.com).
+📫 Check out my [website](https://rhaicode.netlify.app).
 
 <!--
 **rhaicode/rhaicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

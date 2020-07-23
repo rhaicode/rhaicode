@@ -1,4 +1,4 @@
-# Welcome to the lab! 🧪
+# Welcome to the lab! 🧪👨🏾‍🔬
 
 Status: 
 Full plate of projects!! I hope that my coding energy is still on a good cadence. I'm also on a tough fight against bugs. 

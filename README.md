@@ -5,6 +5,8 @@ Full plate of projects!! I hope that my coding energy is still on a good cadence
 
 Working with React and TypeScript. ⚛️
 
+Currently learning Shopify and Magento for Developers.
+
 📫 Check out my [website](https://rhaicode.netlify.com).
 
 <!--

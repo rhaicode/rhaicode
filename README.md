@@ -1,7 +1,9 @@
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=rhaicode&count_private=true&show_icons=true&theme=dark) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhaicode&layout=compact&show_icons=true&theme=dark)
+
 
 # Welcome to the lab! 🧪👨🏾‍🔬
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhaicode&layout=compact&show_icons=true&theme=dark)
 
 Status: 
 Full plate of projects!! I hope that my coding energy is still on a good cadence. I'm also on a tough fight against bugs. 

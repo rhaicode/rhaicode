@@ -1,7 +1,7 @@
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=rhaicode&count_private=true&show_icons=true&theme=dark) -->
 
 
-# Welcome to the lab! 🧪👨🏾‍🔬
+# Welcome to the lab! 👨🏾‍🔬
 
 
 
@@ -13,6 +13,7 @@ Working with React and TypeScript. ⚛️
 Currently learning Shopify and Magento for Developers.
 
 📫 Check out my [website](https://rhaicode.netlify.com).
+🧪 [Codepen](https://codepen.io/rhaicode)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhaicode&layout=compact&show_icons=true)
 

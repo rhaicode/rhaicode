@@ -12,7 +12,7 @@ Working with React and TypeScript. ⚛️
 
 Currently learning Shopify and Magento for Developers.
 
-📫 Check out my [website](https://rhaicode.netlify.com).
+📫 Check out my [website](https://rhaicode.dev).
 
 🧪 [Codepen](https://codepen.io/rhaicode)
 

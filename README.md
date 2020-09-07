@@ -6,11 +6,9 @@
 
 
 Status: 
-Full plate of projects!! I hope that my coding energy is still on a good cadence. I'm also on a tough fight against bugs. 
+I've been into animations and SVGs lately and I'm up to the long ride.
 
 Working with React and TypeScript. ⚛️
-
-Currently learning Shopify and Magento for Developers.
 
 📫 Check out my [website](https://rhaicode.dev).
 

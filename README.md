@@ -6,11 +6,11 @@
 
 
 Status: 
-I've been into animations and SVGs lately and I'm up to the long ride.
+I'm currently creating a data table library and I'm up on a long ride.
 
 Working with React and TypeScript. ⚛️
 
-📫 Check out my [website](https://rhaicode.dev).
+📫 Check out my [website](https://rhaicode.netlify.com).
 
 🧪 [Codepen](https://codepen.io/rhaicode)
 

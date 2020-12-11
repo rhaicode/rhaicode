@@ -1,7 +1,7 @@
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=rhaicode&count_private=true&show_icons=true&theme=dark) -->
 
 
-# Welcome to the lab! 👨🏾‍🔬
+# 👨🏾‍🔬 Welcome to the lab!
 
 
 

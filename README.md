@@ -9,10 +9,9 @@
 <h3>Status</h3>
 <p>I'm getting my hands on some blockchain development! Wohoo...</p>
 
-
-📫 Check out my [website](https://rhaicode.netlify.com).
-
-🧪 [Codepen](https://codepen.io/rhaicode)
+<h3>Plugs</h3>
+<p>📫 Check out my [website](https://rhaicode.netlify.com).</p>
+<p>🧪 [Codepen](https://codepen.io/rhaicode)</p>
 
 
 <!--

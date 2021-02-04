@@ -3,12 +3,11 @@
 
 # 👨🏾‍🔬 Welcome to the lab!
 
-<h3>Hello</h3>
+<h3>Bio</h3>
 <p>I'm a software engineer @ [High Output Ventures](https://www.hov.co). React, TypeScript and GraphQL. ⚛️</p>
 
-Status: 
-I'm getting my hands on some blockchain development! Wohoo...
-
+<h3>Status</h3>
+<p>I'm getting my hands on some blockchain development! Wohoo...</p>
 
 
 📫 Check out my [website](https://rhaicode.netlify.com).

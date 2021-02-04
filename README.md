@@ -10,7 +10,7 @@
 <p>I'm getting my hands on some blockchain development! Wohoo...</p>
 
 <h3>Plugs</h3>
-<p>📫 Check out my [website](https://rhaicode.netlify.com).</p>
+<p>📫 Check out my <a href="https://rhaicode.netlify.com">website</a>.</p>
 <p>🧪<a href="https://codepen.io/rhaicode">Codepen</a></p>
 
 

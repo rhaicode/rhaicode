@@ -5,7 +5,7 @@
 
 
 Bio:
-Software Engineer @ [High Output Ventures](https://www.hov.co). React, TypeScript and GraphQL. ⚛️
+<p>Software Engineer @ [High Output Ventures](https://www.hov.co). React, TypeScript and GraphQL. ⚛️</p>
 
 Status: 
 I'm getting my hands on some blockchain development! Wohoo...

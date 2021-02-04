@@ -4,7 +4,7 @@
 # 👨🏾‍🔬 Welcome to the lab!
 
 <h3>Bio</h3>
-<p>I'm a software engineer @ [High Output Ventures](https://www.hov.co). React, TypeScript and GraphQL. ⚛️</p>
+<p>I'm a software engineer @ High Output Ventures. Working with React, TypeScript and GraphQL. ⚛️</p>
 
 <h3>Status</h3>
 <p>I'm getting my hands on some blockchain development! Wohoo...</p>

@@ -4,14 +4,14 @@
 # 👨🏾‍🔬 Welcome to the lab!
 
 <h3>Bio</h3>
-<p>I'm a software engineer @ High Output Ventures. Working with React, TypeScript and GraphQL. ⚛️</p>
+<p>I'm a software engineer @ <a href="https://hov.co">High Output Ventures</a>. Working with React, TypeScript and GraphQL. ⚛️</p>
 
 <h3>Status</h3>
 <p>I'm getting my hands on some blockchain development! Wohoo...</p>
 
 <h3>Plugs</h3>
 <p>📫 Check out my [website](https://rhaicode.netlify.com).</p>
-<p>🧪 [Codepen](https://codepen.io/rhaicode)</p>
+<p>🧪<a href="https://codepen.io/rhaicode">Codepen</a></p>
 
 
 <!--

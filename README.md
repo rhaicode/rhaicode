@@ -4,11 +4,13 @@
 # 👨🏾‍🔬 Welcome to the lab!
 
 
+Bio:
+Software Engineer @ [High Output Ventures](https://www.hov.co). React, TypeScript and GraphQL. ⚛️
 
 Status: 
-I'm currently creating a data table library and I'm up on a long ride.
+I'm getting my hands on some blockchain development! Wohoo...
 
-Working with React and TypeScript. ⚛️
+
 
 📫 Check out my [website](https://rhaicode.netlify.com).
 

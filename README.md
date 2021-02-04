@@ -3,8 +3,7 @@
 
 # 👨🏾‍🔬 Welcome to the lab!
 
-
->h3>Hello</h3>
+<h3>Hello</h3>
 <p>I'm a software engineer @ [High Output Ventures](https://www.hov.co). React, TypeScript and GraphQL. ⚛️</p>
 
 Status: 

@@ -4,7 +4,7 @@
 # 👨🏾‍🔬 Welcome to the lab!
 
 <h3>Bio</h3>
-<p>I'm a software engineer working with React, TypeScript and GraphQL. ⚛️</p>
+<p>I'm a software engineer working with React and Vue, TypeScript, Mapbox, AWS and GraphQL. ⚛️</p>
 
 <h3>Status</h3>
 <p>I'm getting my hands on some blockchain development! Wohoo...</p>

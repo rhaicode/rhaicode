@@ -69,6 +69,28 @@
     <td align="center" width="96">
       <a href="#rhaidzsal-tech">
         <img
+          src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg"
+          width="48"
+          height="48"
+          alt="ChakraUI"
+        />
+      </a>
+      <br />ChakraUI
+    </td>
+    <td align="center" width="96">
+      <a href="#rhaidzsal-tech">
+        <img
+          src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg"
+          width="48"
+          height="48"
+          alt="Tailwind"
+        />
+      </a>
+      <br />Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="#rhaidzsal-tech">
+        <img
           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
           width="48"
           height="48"
@@ -105,17 +127,6 @@
     <td align="center" width="96">
       <a href="#rhaidzsal-tech">
         <img
-          src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg"
-          width="48"
-          height="48"
-          alt="TailWind"
-        />
-      </a>
-      <br />TailWind
-    </td>
-    <td align="center" width="96">
-      <a href="#rhaidzsal-tech">
-        <img
           src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
           width="45"
           height="45"
@@ -137,6 +148,7 @@
     </td>
   </tr>
 </table>
+
 
 
 

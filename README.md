@@ -9,13 +9,14 @@
 
 - :office: &nbsp;I'm currently working at **[Outliant]**
 - :seedling: &nbsp;I’m currently learning **[Solidity]**
-- :book: &nbsp;I like to learn about **Web 3.0** and **JavaScript**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more in **[Twitter]**
+- :book: &nbsp;I like to learn about more **Web 3.0** and **JavaScript**
+- :computer: &nbsp;Connect with me on **[LinkedIn]** or **[Twitter]**
+- :atom_symbol: &nbsp; I'm at **[ReactJS PH Dev Board]**
+- :test_tube: &nbsp; Watch my experiments at **[Codepen]**
 
 <br>
 
-<h2 align="left" id="rhaidzsal-tech">Tech Stack</h2>
+<h2 align="left" id="rhaidzsal-tech" style="margin-top: 32px;">Tech Stack</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -188,5 +189,7 @@
 [twitter]: https://twitter.com/rhaicode "Twitter"
 [Solidity]: https://soliditylang.org/ "Solidity"
 [Outliant]: https://outliant.com/ "Outliant"
+[ReactJS PH Dev Board]: https://reactjs.org.ph/dev-board/ "ReactJS PH Dev Board"
+[Codepen]: https://codepen.io/rhaicode "Codepen"
 
 [![Rhaidzsal's github activity graph](https://activity-graph.herokuapp.com/graph?username=rhaicode&theme=react-dark)](https://github.com/rhaicode)

@@ -15,8 +15,9 @@
 - :test_tube: &nbsp; Watch my experiments at **[Codepen]**
 
 <br>
-
-<h2 align="left" id="rhaidzsal-tech" style="margin-top: 64px;">Tech Stack</h2>
+<br>
+<br>
+<h2 align="left" id="rhaidzsal-tech" >Tech Stack</h2>
 
 > Tools, languages, and other things that I like to work with.
 

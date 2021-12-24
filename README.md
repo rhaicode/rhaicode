@@ -28,24 +28,26 @@
       </a>
       <br>JavaScript
     </td>
+        <td align="center" width="96">
+      <a href="#rhaidzsal-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+        <td align="center" width="96">
+      <a href="#rhaidzsal-tech">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>ReactJS
+    </td>
     <td align="center" width="96">
       <a href="#rhaidzsal-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
-    <td align="center" width="96">
-      <a href="#rhaidzsal-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#rhaidzsal-tech">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      </a>
-      <br>ReactJS
-    </td>
+
+
     <td align="center" width="96">
       <a href="#rhaidzsal-tech">
         <img src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" width="48" height="48" alt="ChakraUI" />

@@ -11,10 +11,12 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn]** or **[Twitter]**
 - :atom_symbol: &nbsp; I'm at **[ReactJS PH Dev Board]**
 - :test_tube: &nbsp; Watch my experiments at **[Codepen]**
+- 
+<br />
+<br />
 
 <h2 align="left" id="rhaidzsal-tech" >Latest Projects</h2>
-
-- :1st_place_medal: &nbsp;Hackathon winner at Enzyme Finance Hackathon on Devpost.<strong><a href="https://devpost.com/software/enzyme-auto-manager-bot">Project.</a></strong>
+- :1st_place_medal: &nbsp;Hackathon winner at Enzyme Finance Hackathon on Devpost. <strong><a href="https://devpost.com/software/enzyme-auto-manager-bot">Project.</a></strong>
 
 <br />
 <br />

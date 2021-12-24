@@ -58,7 +58,7 @@
           alt="React"
         />
       </a>
-      <br />ReactJS
+      <br />React
     </td>
     <td align="center" width="96">
       <a href="#rhaidzsal-tech">
@@ -66,10 +66,10 @@
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/220px-Vue.js_Logo_2.svg.png"
           width="48"
           height="48"
-          alt="VueJS"
+          alt="Vue"
         />
       </a>
-      <br />VueJS
+      <br />Vue
     </td>
     <td align="center" width="96">
       <a href="#rhaidzsal-tech">
@@ -99,10 +99,10 @@
           src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png"
           width="48"
           height="48"
-          alt="Next JS"
+          alt="Next"
         />
       </a>
-      <br />Next JS
+      <br />Next
     </td>
   </tr>
   <tr>
@@ -112,10 +112,10 @@
           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
           width="48"
           height="48"
-          alt="Node JS"
+          alt="Node"
         />
       </a>
-      <br />Node JS
+      <br />Node
     </td>
     <td align="center" width="96">
       <a href="#rhaidzsal-tech">

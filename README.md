@@ -11,11 +11,12 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn]** or **[Twitter]**
 - :atom_symbol: &nbsp; I'm at **[ReactJS PH Dev Board]**
 - :test_tube: &nbsp; Watch my experiments at **[Codepen]**
+- :1st_place_medal: &nbsp;Hackathon winner at **[Codepen]** Hackathon on Devpost.
 
 <br />
 <br />
 <h2 align="left" id="rhaidzsal-tech" >Latest Projects</h2>
-- :1st_place_medal: &nbsp;Hackathon winner at **[Codepen]** Hackathon on Devpost.
+
 
 <br />
 <br />

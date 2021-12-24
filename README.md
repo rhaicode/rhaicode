@@ -115,6 +115,17 @@
     <td align="center" width="96">
       <a href="#rhaidzsal-tech">
         <img
+          src="https://pbs.twimg.com/profile_images/970652657231847424/mWKpZoM4_400x400.jpg"
+          width="48"
+          height="48"
+          alt="Fastify"
+        />
+      </a>
+      <br />Fastify
+    </td>
+    <td align="center" width="96">
+      <a href="#rhaidzsal-tech">
+        <img
           src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png"
           width="48"
           height="48"
@@ -122,6 +133,17 @@
         />
       </a>
       <br />MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#rhaidzsal-tech">
+        <img
+          src="https://afac.org/wp-content/uploads/2019/12/aws-logojpg.jpg"
+          width="48"
+          height="48"
+          alt="AWS"
+        />
+      </a>
+      <br />AWS
     </td>
     <td align="center" width="96">
       <a href="#rhaidzsal-tech">
@@ -136,6 +158,7 @@
     </td>
   </tr>
 </table>
+
 
 
 [linkedin]: https://www.linkedin.com/in/rhaicode "LinkedIn"

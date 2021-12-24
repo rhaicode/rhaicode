@@ -156,8 +156,31 @@
       </a>
       <br />GraphQL
     </td>
+    <td align="center" width="96">
+      <a href="#rhaidzsal-tech">
+        <img
+          src="https://miro.medium.com/max/1400/0*yqbRInqX0ZRUlVS0"
+          width="48"
+          height="48"
+          alt="Solidity"
+        />
+      </a>
+      <br />Solidity
+    </td>
+    <td align="center" width="96">
+      <a href="#rhaidzsal-tech">
+        <img
+          src="https://pbs.twimg.com/profile_images/1317925773425168384/XQkaoFRg_400x400.jpg"
+          width="48"
+          height="48"
+          alt="Hardhat"
+        />
+      </a>
+      <br />Hardhat
+    </td>
   </tr>
 </table>
+
 
 
 

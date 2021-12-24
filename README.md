@@ -1,15 +1,15 @@
 
-<h1 align="left" id="rhaidzsal-title">:wave: Hello there! I'm Rhaidzsal Ali</h1>
-<h3 align="left">Software Engineer.</h3>
+<h1 align="left" id="rhaidzsal-title">:wave: Hey! I'm Rhaidzsal Ali</h1>
+<h3 align="left">and I'm a Software Engineer.</h3>
 <a href="#rhaidzsal-title">
   <img src="https://github-readme-stats.vercel.app/api?username=rhaicode&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Rhaidzsal Ali" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[Outliant]**
-- :seedling: &nbsp;I’m currently learning **[Solidity]**
-- :book: &nbsp;I like to learn about more **Web 3.0** and **JavaScript**
+- :office: &nbsp;Working at **[Outliant]**
+- :seedling: &nbsp;Learning **[Solidity]**
+- :book: &nbsp;Like to learn about more **Web 3.0** and **JavaScript**
 - :computer: &nbsp;Connect with me on **[LinkedIn]** or **[Twitter]**
-- :atom_symbol: &nbsp; I'm at **[ReactJS PH Dev Board]**
+- :atom_symbol: &nbsp;Present at **[ReactJS PH Dev Board]**!
 - :test_tube: &nbsp; Watch my experiments at **[Codepen]**
 
 <br />

@@ -192,4 +192,4 @@
 [Outliant]: https://outliant.com/ "Outliant"
 [ReactJS PH Dev Board]: https://reactjs.org.ph/dev-board/ "ReactJS PH Dev Board"
 [Codepen]: https://codepen.io/rhaicode "Codepen"
-[Link]: https://devpost.com/software/enzyme-auto-manager-bot
+[Link]: https://devpost.com/software/enzyme-auto-manager-bot "Link"

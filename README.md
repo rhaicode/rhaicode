@@ -12,13 +12,13 @@
 - :atom_symbol: &nbsp; I'm at **[ReactJS PH Dev Board]**
 - :test_tube: &nbsp; Watch my experiments at **[Codepen]**
 
-<br>
-<br>
+<br />
+<br />
 <h2 align="left" id="rhaidzsal-tech" >Latest Projects</h2>
 - :1st_place_medal: &nbsp;Hackathon winner at **[Codepen]** Hackathon on Devpost.
 
-<br>
-<br>
+<br />
+<br />
 <h2 align="left" id="rhaidzsal-tech" >Tech Stack</h2>
 
 > Tools, languages, and other things that I like to work with.

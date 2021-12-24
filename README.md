@@ -15,7 +15,7 @@
 <br>
 <br>
 <h2 align="left" id="rhaidzsal-tech" >Latest Projects</h2>
-- :1st_place_medal: Hackathon winner at [Enzyme Finance](https://enzyme.finance/)($MLN) Hackathon on Devpost. **[Link]** 
+- :1st_place_medal: Hackathon winner at **[Enzyme Finance]** ($MLN) Hackathon on Devpost. **[Link]** 
 
 <br>
 <br>
@@ -193,3 +193,4 @@
 [ReactJS PH Dev Board]: https://reactjs.org.ph/dev-board/ "ReactJS PH Dev Board"
 [Codepen]: https://codepen.io/rhaicode "Codepen"
 [Link]: https://devpost.com/software/enzyme-auto-manager-bot "Link"
+[Enzyme Finance]: https://enzyme.finance/ "Enzyme Finance"

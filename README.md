@@ -2,7 +2,7 @@
 <h1 align="left" id="rhaidzsal-title">:wave: Hello there! I'm Rhaidzsal Ali</h1>
 <h3 align="left">Software Engineer.</h3>
 
-
+<br>
 <a href="#rhaidzsal-title">
   <img src="https://github-readme-stats.vercel.app/api?username=rhaicode&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Rhaidzsal Ali" align="right" />
 </a>
@@ -184,13 +184,9 @@
 </table>
 
 
-
-
 [linkedin]: https://www.linkedin.com/in/rhaicode "LinkedIn"
 [twitter]: https://twitter.com/rhaicode "Twitter"
 [Solidity]: https://soliditylang.org/ "Solidity"
 [Outliant]: https://outliant.com/ "Outliant"
 [ReactJS PH Dev Board]: https://reactjs.org.ph/dev-board/ "ReactJS PH Dev Board"
 [Codepen]: https://codepen.io/rhaicode "Codepen"
-
-[![Rhaidzsal's github activity graph](https://activity-graph.herokuapp.com/graph?username=rhaicode&theme=react-dark)](https://github.com/rhaicode)

@@ -15,7 +15,7 @@
 <br>
 <br>
 <h2 align="left" id="rhaidzsal-tech" >Latest Projects</h2>
-- :1st_place_medal: Hackathon winner at **[Enzyme Finance]** ($MLN) Hackathon on Devpost. **[Link]** 
+- :1st_place_medal: Hackathon winner at **[Enzyme Finance]** Hackathon on Devpost.
 
 <br>
 <br>

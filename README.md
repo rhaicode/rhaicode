@@ -99,5 +99,6 @@
 [linkedin]: https://www.linkedin.com/in/rhaicode "LinkedIn"
 [twitter]: https://twitter.com/rhaicode "Twitter"
 [Solidity]: https://soliditylang.org/ "Solidity"
+[Outliant]: https://outliant.com/ "Outliant"
 
 [![Rhaidzsal's github activity graph](https://activity-graph.herokuapp.com/graph?username=rhaicode&theme=react-dark)](https://github.com/rhaicode)

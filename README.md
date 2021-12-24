@@ -16,7 +16,7 @@
 
 <br>
 
-<h2 align="left" id="rhaidzsal-tech" style="margin-top: 32px;">Tech Stack</h2>
+<h2 align="left" id="rhaidzsal-tech" style="margin-top: 64px;">Tech Stack</h2>
 
 > Tools, languages, and other things that I like to work with.
 

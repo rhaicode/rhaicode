@@ -9,7 +9,7 @@
 - :seedling: &nbsp;Learning **[Solidity]**
 - :book: &nbsp;Like to learn about more **Web 3.0** and **JavaScript**
 - :iphone: &nbsp;Connect with me on **[LinkedIn]** or **[Twitter]**
-- :atom_symbol: &nbsp;Present at **[ReactJS PH Dev Board]**!
+- :atom_symbol: &nbsp;Present at **[ReactJS PH Dev Board]**
 - :test_tube: &nbsp; Watch my experiments at **[Codepen]**
 
 <br />

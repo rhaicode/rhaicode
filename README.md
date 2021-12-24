@@ -69,7 +69,7 @@
     <td align="center" width="96">
       <a href="#rhaidzsal-tech">
         <img
-          src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg"
+          src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4"
           width="48"
           height="48"
           alt="ChakraUI"
@@ -148,11 +148,6 @@
     </td>
   </tr>
 </table>
-
-
-
-
-
 
 [linkedin]: https://www.linkedin.com/in/rhaicode "LinkedIn"
 [twitter]: https://twitter.com/rhaicode "Twitter"

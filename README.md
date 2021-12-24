@@ -1,8 +1,6 @@
 
 <h1 align="left" id="rhaidzsal-title">:wave: Hello there! I'm Rhaidzsal Ali</h1>
 <h3 align="left">Software Engineer.</h3>
-
-<br>
 <a href="#rhaidzsal-title">
   <img src="https://github-readme-stats.vercel.app/api?username=rhaicode&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Rhaidzsal Ali" align="right" />
 </a>
@@ -14,7 +12,6 @@
 - :atom_symbol: &nbsp; I'm at **[ReactJS PH Dev Board]**
 - :test_tube: &nbsp; Watch my experiments at **[Codepen]**
 
-<br>
 <br>
 <br>
 <h2 align="left" id="rhaidzsal-tech" >Tech Stack</h2>

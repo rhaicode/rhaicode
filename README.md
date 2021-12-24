@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rhaicode&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Rhaidzsal Ali" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **Outliant**
+- :office: &nbsp;I'm currently working at **[Outliant]**
 - :seedling: &nbsp;I’m currently learning **[Solidity]**
 - :book: &nbsp;I like to learn about **Web 3.0** and **JavaScript**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**

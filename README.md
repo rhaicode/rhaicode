@@ -11,7 +11,7 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn]** or **[Twitter]**
 - :atom_symbol: &nbsp; I'm at **[ReactJS PH Dev Board]**
 - :test_tube: &nbsp; Watch my experiments at **[Codepen]**
-- :1st_place_medal: &nbsp;Hackathon winner at **[Codepen]** Hackathon on Devpost.
+- :1st_place_medal: &nbsp;Hackathon winner at **[Enzyme Finance]** Hackathon on Devpost.
 
 <br />
 <br />

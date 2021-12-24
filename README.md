@@ -14,6 +14,7 @@
 - :1st_place_medal: &nbsp;Hackathon winner at **[Enzyme Finance]** Hackathon on Devpost.
 
 <h2 align="left" id="rhaidzsal-tech" >Latest Projects</h2>
+<a></a>
 - :1st_place_medal: &nbsp;Hackathon winner at **[Enzyme Finance]** Hackathon on Devpost.
 
 <br />

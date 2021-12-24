@@ -13,10 +13,8 @@
 - :test_tube: &nbsp; Watch my experiments at **[Codepen]**
 - :1st_place_medal: &nbsp;Hackathon winner at **[Enzyme Finance]** Hackathon on Devpost.
 
-<br />
-<br />
 <h2 align="left" id="rhaidzsal-tech" >Latest Projects</h2>
-
+- :1st_place_medal: &nbsp;Hackathon winner at **[Enzyme Finance]** Hackathon on Devpost.
 
 <br />
 <br />

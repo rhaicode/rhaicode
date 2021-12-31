@@ -17,10 +17,10 @@
 
 <h2 align="left" id="rhaidzsal-tech" >Latest Projects</h2>
 <p>
-- :computer: &nbsp;Working ona project called God Game for Metis Stardust on Devpost. <strong><a href="https://devpost.com/software/god-game">Link.</a></strong><i>[Jan 2022]</i>
+- :computer: &nbsp;Working ona project called God Game for Metis Stardust on Devpost. <strong><a href="https://devpost.com/software/god-game">Link.</a></strong><i> [Jan 2022]</i>
 </p>
 <p>
-- :1st_place_medal: &nbsp;Hackathon winner at Enzyme Finance Hackathon on Devpost. <strong><a href="https://devpost.com/software/enzyme-auto-manager-bot">Link.</a></strong><i>[Aug 2021]</i>
+- :1st_place_medal: &nbsp;Hackathon winner at Enzyme Finance Hackathon on Devpost. <strong><a href="https://devpost.com/software/enzyme-auto-manager-bot">Link.</a></strong><i> [Aug 2021]</i>
 </p>
 
 <br />

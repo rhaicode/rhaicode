@@ -5,7 +5,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rhaicode&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Rhaidzsal Ali" align="right" />
 </a>
 
-- :computer: &nbsp;Working at **[Outliant]**
 - :seedling: &nbsp;Learning **[Solidity]**
 - :book: &nbsp;Like to learn more **Web 3.0**
 - :iphone: &nbsp;Connect with me on **[LinkedIn]** or **[Twitter]**

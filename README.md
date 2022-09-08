@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rhaicode&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Rhaidzsal Ali" align="right" />
 </a>
 
-- :seedling: &nbsp;Learning **[Solidity]**
+- :man_technologist: &nbsp;Fullstack Web Developer at **[Outliant]**
 - :book: &nbsp;Like to learn more **latest frontend and backend development tools, software architecture, and technical leadership**
 - :iphone: &nbsp;Connect with me on **[LinkedIn]** or **[Twitter]**
 - :atom_symbol: &nbsp;Present at **[ReactJS PH Dev Board]**

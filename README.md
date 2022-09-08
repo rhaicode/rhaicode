@@ -6,7 +6,7 @@
 </a>
 
 - :seedling: &nbsp;Learning **[Solidity]**
-- :book: &nbsp;Like to learn more **Web 3.0**
+- :book: &nbsp;Like to learn more **software architecture**
 - :iphone: &nbsp;Connect with me on **[LinkedIn]** or **[Twitter]**
 - :atom_symbol: &nbsp;Present at **[ReactJS PH Dev Board]**
 - :test_tube: &nbsp; Watch my CSS experiments at **[Codepen]** and Web3 apps at **[Replit]**

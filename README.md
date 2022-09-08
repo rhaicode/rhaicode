@@ -4,6 +4,8 @@
 <a href="#rhaidzsal-title">
   <img src="https://github-readme-stats.vercel.app/api?username=rhaicode&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Rhaidzsal Ali" align="right" />
 </a>
+
+<br />
 - :man_technologist: &nbsp;Full stack web developer at **[Outliant]**
 - :book: &nbsp;Learning more about **latest frontend and backend tools, software architecture, and technical leadership**
 - :iphone: &nbsp;Connect with me on **[LinkedIn]** or **[Twitter]**

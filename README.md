@@ -6,7 +6,7 @@
 </a>
 
 - :man_technologist: &nbsp;Fullstack Web Developer at **[Outliant]**
-- :book: &nbsp;Like to learn more **latest frontend and backend development tools, software architecture, and technical leadership**
+- :book: &nbsp;Loves to learn the **latest frontend and backend development tools, software architecture, and technical leadership**
 - :iphone: &nbsp;Connect with me on **[LinkedIn]** or **[Twitter]**
 - :atom_symbol: &nbsp;Present at **[ReactJS PH Dev Board]**
 - :test_tube: &nbsp; Watch my CSS experiments at **[Codepen]** and Web3 apps at **[Replit]**

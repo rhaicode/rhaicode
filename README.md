@@ -1,4 +1,4 @@
-
+![image](https://github.com/rhaicode/rhaicode/assets/22829115/074c4e43-8450-4b00-8b7f-b0b401ebc244)
 <h1 align="left" id="rhaidzsal-title">:wave: Hey! I'm Rhaidzsal Ali</h1>
 <h3 align="left">and I'm a Software Engineer. :man_technologist:</h3>
 <a href="#rhaidzsal-title">
@@ -88,7 +88,7 @@
     <td align="center" width="96">
       <a href="#rhaidzsal-tech">
         <img
-          src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg"
+          src="https://stackdiary.com/wp-content/uploads/2022/10/Tailwind-CSS-15-Component-Libraries-UI-Kits-800x444.png"
           width="48"
           height="48"
           alt="Tailwind"
